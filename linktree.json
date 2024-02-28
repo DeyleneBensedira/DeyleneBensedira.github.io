@@ -13,5 +13,10 @@
         "link": "https://open.spotify.com/artist/1C3aEfW34xkicZ5umNYdJM",
         "name": "Spotify",
         "img": "https://i.scdn.co/image/ab6761610000517440bcce8ed62bfbd8484f2a48"
+     },
+     {
+         "link": "https://www.youtube.com/watch?v=8CUQcXev-8Y",
+         "name": "In My Eyes",
+         "img": "https://i.ytimg.com/vi/8CUQcXev-8Y/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDf--9qW3ubqKQN556fstAamWJMdg"
      }
 ]
